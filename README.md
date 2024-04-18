@@ -1,5 +1,7 @@
 # Spring Boot Kafka Project on CloudKarafka 🌩️
 
+![Apache Kafka](doc/images/kafka.png)
+
 This project utilizes Kafka hosted on [CloudKarafka](https://api.cloudkarafka.com/) to implement a cloud-based Kafka connection system. It includes a producer capable of sending messages directly to the cloud and a consumer capable of consuming messages in a microservice.
 
 ## Getting Started
