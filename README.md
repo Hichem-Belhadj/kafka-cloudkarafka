@@ -13,10 +13,9 @@ To get started with this project, follow these steps:
 3. Create a new instance with the free "Developer Duck" plan on Amazon Web Services.
 4. Define the following environment variables as described in `application.yml`:
 
-   - `KAFKA_BOOTSTRAP_SERVERS`: The bootstrap server(s) provided by CloudKarafka.
-   - `KAFKA_USERNAME`: Your CloudKarafka username.
-   - `KAFKA_PASSWORD`: Your CloudKarafka password.
-   - (Add any other required environment variables)
+   - `CLOUDKARAFKA_BROKERS`: The bootstrap server(s) provided by CloudKarafka.
+   - `CLOUDKARAFKA_USERNAME`: Your CloudKarafka username.
+   - `CLOUDKARAFKA_PASSWORD`: Your CloudKarafka password.
 
 5. Run the project and test the connection to CloudKarafka.
 
